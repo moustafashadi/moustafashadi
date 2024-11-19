@@ -14,5 +14,4 @@ Aspiring software engineering student, currently learning and implementing vario
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moustafashadi)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moustafashadi&show_icons=true)
