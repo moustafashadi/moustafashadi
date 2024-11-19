@@ -14,5 +14,5 @@ Aspiring software engineering student, currently learning and implementing vario
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Statistics
-![moustafashadi's Stats](https://github-readme-stats.vercel.app/api?username=moustafashadi&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
+![moustafashadi's Stats](https://github-readme-stats.vercel.app/api?username=moustafashadi&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 ![moustafashadi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moustafashadi&theme=nightowl&hide_border=false)
